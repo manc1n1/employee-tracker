@@ -12,6 +12,10 @@
 
 SQL Challenge: Employee Tracker
 
+## Walkthrough Video
+
+https://drive.google.com/file/d/1rse0cPj52F6GH39N5i0ZkDRiMm-NFArY/view?usp=sharing
+
 ## Table of Contents
 
 -   [Installation](#installation)
