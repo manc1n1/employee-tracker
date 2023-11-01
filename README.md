@@ -2,7 +2,7 @@
 
 # Employee Tracker
 
-[![License](https://img.shields.io/github/license/manc1n1/svg-logo-maker.svg?style=for-the-badge)](https://github.com/manc1n1/employee-tracker/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/manc1n1/employee-tracker.svg?style=for-the-badge)](https://github.com/manc1n1/employee-tracker/blob/master/LICENSE)
 [![nodejs][node.js]][nodejs-url]
 [![mysql][mysql]][mysql-url]
 
